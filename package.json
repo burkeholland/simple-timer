@@ -2,7 +2,7 @@
   "name": "simple-timer",
   "displayName": "Simple Timer",
   "description": "A simple timer in the toolbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "burkeholland",
   "icon": "images/timer.png",
   "repository": {

@@ -1,14 +1,20 @@
 # Simple Timer
 
-A simple timer for the VS Code toolbar.
+A simple timer for the VS Code Status Bar.
+
+![Simple Timer In Action](https://i.imgur.com/LONhxX5.png)
 
 ## Features
 
-⏱ A timer for the VS Code statusbar ⏱
+⏱ A timer for the VS Code Status Bar ⏱
 
 ### Start
 
 Starts the timer. Specify a time in minutes.
+
+![Simple Timer Start](https://i.imgur.com/JvnFW7y.png)
+
+![Simple Timer Set](https://i.imgur.com/AAGdmIt.png)
 
 ### Stop
 
@@ -25,7 +31,9 @@ Too awesome
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+### 1.0.1
+
+* It's a statusbar, not a toolbar. Get your act together, Burke.
 
 ### 1.0.0
 
